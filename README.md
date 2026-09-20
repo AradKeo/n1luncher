@@ -1,2 +1,2 @@
-# n1luncher
-game luncher 
+# n1launcher
+game launcher 
